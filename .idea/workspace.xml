@@ -2,23 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99aa9586-973f-4df2-99fe-364f4e893762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2주차과제.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/appdirs 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/__about__ 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/__init__ 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/_compat 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/_structures 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/markers 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/requirements 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/specifiers 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/tags 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/utils 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/packaging/version 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/_vendor/pyparsing 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/pkg_resources/extern/__init__ 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/colors.scheme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/filetypes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/find.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/ide-features-trainer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/jdk.table.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/pluginAdvertiser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/project.default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/terminal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/updates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/$APP_CONFIG$/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_mac/$APP_CONFIG$/laf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inspection/Default.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
