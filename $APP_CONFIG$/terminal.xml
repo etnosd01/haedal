@@ -1,6 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;/bin/bash&quot; --login" />
-    <option name="myTabName" value="Local" />
-  </component>
-</application>
