@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99aa9586-973f-4df2-99fe-364f4e893762" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/4주차과제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차실습2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차실습3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차실습4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차실습5.Py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4주차어쩌구.py" afterDir="false" />
+    <list default="true" id="99aa9586-973f-4df2-99fe-364f4e893762" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/5주차과제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5주차실습1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haedal2/5주차실습1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haedal2/5주차실습2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haedal2/5주차실습3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haedal2/5주차실습4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haedal2/5주차실습5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haedal2/5주차실습6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_mac/laf.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filetypes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ide-features-trainer.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inspection/Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pluginAdvertiser.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +43,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4주차과제">
-    <configuration name="4주차과제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5주차과제">
+    <configuration name="5주차과제" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="haedal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +56,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4주차과제.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5주차과제.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4주차실습2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5주차실습3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="haedal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/haedal2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4주차실습2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/haedal2/5주차실습3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4주차실습3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5주차실습4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="haedal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/haedal2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4주차실습3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/haedal2/5주차실습4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4주차실습4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5주차실습5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="haedal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/haedal2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4주차실습4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/haedal2/5주차실습5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4주차실습5.Py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5주차실습6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="haedal" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/haedal2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4주차실습5.Py.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/haedal2/5주차실습6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4주차과제" />
-        <item itemvalue="Python.4주차실습5.Py" />
-        <item itemvalue="Python.4주차실습4" />
-        <item itemvalue="Python.4주차실습3" />
-        <item itemvalue="Python.4주차실습2" />
+        <item itemvalue="Python.5주차과제" />
+        <item itemvalue="Python.5주차실습3" />
+        <item itemvalue="Python.5주차실습6" />
+        <item itemvalue="Python.5주차실습5" />
+        <item itemvalue="Python.5주차실습4" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620722793735</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1621416570645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621416570645</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1621416599841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621416599841</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
